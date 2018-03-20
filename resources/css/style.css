@@ -1,0 +1,23 @@
+
+/* ---- ICONS ----------------- */
+
+.icon-big {
+  font-size: 300%;
+  display: block;
+  color: #e67e22;
+  margin-bottom: 10px;
+}
+
+/* Secrets to align text and icons */
+
+.icon-small {
+  display: inline-block;
+  width: 30px;
+  text-align: center;
+  color: #e67e22;
+  font-size: 120%;
+  line-height: 120%;
+  vertical-align: middle;
+  margin-top: -5px;
+  margin-right: 10px;
+}
